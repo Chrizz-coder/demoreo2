@@ -1,2 +1,6 @@
-Hey this is the main branch.
-This name is master.
+
+HEY CODERS WELCOME TO THE WORLD OF MAGIC.
+WE CAN BUILD THE CHANGES BY PROGRAMMING.
+THAT'S THE THING.
+
+
